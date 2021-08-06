@@ -1,3 +1,3 @@
-# terraform-tls-certificate
+# hashidemos-core-tls
 
-a quick terraform module to generate a private key and root certificate to use with the demostack
+Terraform module to generate a private key and root certificate to use with demos
